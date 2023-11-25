@@ -1,0 +1,13 @@
+{
+  "name": "autobackupdb",
+  "version": "1.0.0",
+  "description": "Auto backup database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord-webhook-node": "^1.1.8",
+    "mysqldump": "^3.2.0"
+  }
+}

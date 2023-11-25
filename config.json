@@ -1,0 +1,20 @@
+{
+    "database_info": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "nama db"
+    },
+
+    "discord": {
+        "savetodiscord": true,
+        "webhook": "link webhook",
+        "color": "#bf00ff",
+        "footer": "Database backup"
+    },
+
+    "interval": {
+        "time": 60
+    }
+
+}
