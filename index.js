@@ -8,7 +8,7 @@ const root = path.join(__dirname, 'sql');
 const maxBackupFiles = 2;
 let num = 0;
 
-console.log("Auto Backup Menyala");
+console.log("Auto Backup Active");
 
 setInterval(async () => {
     num = num + 1;
